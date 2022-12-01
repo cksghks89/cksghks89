@@ -34,7 +34,7 @@
 </p>
 <br>
 <p align="center">
-    <Strong>💡 Coding skills 💡</Strong><br>
+    <Strong>💡 Coding skill 💡</Strong><br>
 </p>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=songkey)](https://solved.ac/songkey/)
