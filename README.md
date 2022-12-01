@@ -3,16 +3,16 @@
 <div align="center">
 
 <div class="email">
-  <p align="center">
-    <Strong>📧 E - Mail 📧</Strong><br>
-</p>
+  
+## 📧 E - Mail 📧
+
 <p>song960705@naver.com</p>
 </div>
 
 <br>
-<p align="center">
-    <Strong>🍀 Tech Stack 🍀</Strong><br>
-</p>
+
+## 🍀 Tech Stack 🍀
+
 
 <p align="center" display="inline-block">
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -22,9 +22,9 @@
 </p>
 <br>
 
-<p align="center">
-    <Strong>✏️ Used at least ones ✏️</Strong><br>
-</p>
+
+## ✏️ Used at least ones ✏️
+
 
 <p align="center" display="inline-block">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -33,9 +33,10 @@
     <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
 </p>
 <br>
-<p align="center">
-    <Strong>💡 Coding skill 💡</Strong><br>
-</p>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=songkey)](https://solved.ac/songkey/)
+## 🏃‍ Contributions
+|Github Stats|Solved.ac|
+|:--:|:--:|
+|![GitHub stats](https://github-readme-stats.vercel.app/api?username=cksghks89&theme=gruvbox_light&show_icons=true)|[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=songkey)](https://solved.ac/songkey)|
+
 </div>
