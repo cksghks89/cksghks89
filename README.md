@@ -38,5 +38,4 @@
 |Github Stats|Solved.ac|
 |:--:|:--:|
 |![GitHub stats](https://github-readme-stats.vercel.app/api?username=cksghks89&theme=gruvbox_light&show_icons=true)|[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=songkey)](https://solved.ac/songkey)|
-
 </div>
