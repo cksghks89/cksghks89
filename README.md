@@ -77,7 +77,7 @@
 <p align="left">23.12.30 Solved.ac 레이팅 기준 4,248위 랭크, 전체 상위 3.51% 수준입니다. </p>
 <p align="left">
 
-[Algorithm](https://github.com/cksghks89/Algorithm) 에서 더 자세한 사항을 확인할 수 있습니다.
+[Problem Solving](https://github.com/cksghks89/Problem-Solving) 에서 더 자세한 사항을 확인할 수 있습니다.
 </p>
 
 <br>
