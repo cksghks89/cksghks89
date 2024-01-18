@@ -46,7 +46,7 @@
 **Fronend**
 <p style="text-align: left">
   <img src="https://img.shields.io/badge/React-F1F3F5?style=square&logo=React&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Android-F1F3F5?style=square&logo=Android&logoColor=34A853"/>
+  <img src="https://img.shields.io/badge/Android Wearable-F1F3F5?style=square&logo=Android&logoColor=34A853"/>
 </p>
 
 <br>
