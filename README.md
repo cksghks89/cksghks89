@@ -58,6 +58,7 @@
 <br>
 
 ## Certificate.
+- **[24.03.10]** PCCP Java Lv.5
 - **[23.08.11]** HSAT (Hyundai Softeer Aptitude Test) Level 3
 - **[23.06.09]** 정보처리기사
 - **[23.03.04]** 삼성 SW 역량 테스트 B형
