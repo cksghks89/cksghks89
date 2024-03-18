@@ -61,7 +61,7 @@
 - **[24.03.10]** PCCP Java Lv.5
 - **[23.08.11]** HSAT (Hyundai Softeer Aptitude Test) Level 3
 - **[23.06.09]** 정보처리기사
-- **[23.03.04]** 삼성 SW 역량 테스트 B형
+- **[23.03.04]** 삼성 SW 역량 테스트 Level B
 - **[22.05.14]** Toeic Speaking IM3
 - **[20.06.30]** SQL 개발자 [SQLD]
 
