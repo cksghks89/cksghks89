@@ -80,7 +80,7 @@
 <div align="left">
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=songkey)](https://solved.ac/songkey)
-[![mazandi profile](http://mazandi.herokuapp.com/api?handle=songkey&theme=dark)](https://solved.ac/profile/songkey)
+[![mazandi profile](http://mazandi.herokuapp.com/api?handle=songkey&theme=cold)](https://solved.ac/profile/songkey)
 
 </div>
 <p align="left">24.03.28 Solved.ac 레이팅 기준 2,721위 랭크, 전체 상위 2.07% 수준입니다. </p>
