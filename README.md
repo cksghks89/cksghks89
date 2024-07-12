@@ -26,11 +26,7 @@
   <img src="https://img.shields.io/badge/Querydsl-F1F3F5?style=square&logo=querydsl&logoColor=59666C"/>
 
 <br/>
-  <img src="https://img.shields.io/badge/Spring Cloud Gateway-F1F3F5?style=square&logo=Spring&logoColor=6DB33F"/>
-  <img src="https://img.shields.io/badge/Spring Cloud Config-F1F3F5?style=square&logo=Spring&logoColor=6DB33F"/>
-  <img src="https://img.shields.io/badge/Netflix Eureka-F1F3F5?style=square&logo=Netflix&logoColor=E50914"/>
-  <img src="https://img.shields.io/badge/Kafka-F1F3F5?style=square&logo=Apache Kafka&logoColor=231F20"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-F1F3F5?style=square&logo=RabbitMQ&logoColor=FF6600"/>
+  <img src="https://img.shields.io/badge/Spring Cloud-F1F3F5?style=square&logo=Spring&logoColor=6DB33F"/>
 </p>
 
 **Infra**
