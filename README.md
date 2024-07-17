@@ -80,11 +80,6 @@
 [![mazandi profile](http://mazandi.herokuapp.com/api?handle=songkey&theme=cold)](https://solved.ac/profile/songkey)
 
 </div>
-<p align="left">24.03.28 Solved.ac 레이팅 기준 2,721위 랭크, 전체 상위 2.07% 수준입니다. </p>
-<p align="left">
-
-[Problem Solving](https://github.com/cksghks89/Problem-Solving) 에서 더 자세한 사항을 확인할 수 있습니다.
-</p>
 
 <br>
 
