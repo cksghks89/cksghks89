@@ -60,7 +60,7 @@
 
 ## Certificate.
 - **[24.03.10]** PCCP Java Lv.5
-- **[23.12.29]** 삼성 청년 SW 아카데미 SW Certificate 최우수 (top 5%)
+- **[23.12.29]** 삼성 청년 SW 아카데미 Certificate 최우수 (top 5%)
 - **[23.08.11]** HSAT (Hyundai Softeer Aptitude Test) Level 3
 - **[23.06.09]** 정보처리기사
 - **[23.03.04]** Samsung SW Certificate Professional
