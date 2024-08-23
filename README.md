@@ -8,6 +8,8 @@
 
 <br>
 
+
+<!-- 
 ## Skills.
 
 **Language**
@@ -53,6 +55,8 @@
 </p>
 
 <br>
+
+-->
 
 ## Certificate.
 - **[24.03.10]** PCCP Java Lv.5
